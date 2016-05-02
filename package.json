@@ -1,0 +1,22 @@
+{
+  "name": "social-net",
+  "version": "1.0.0",
+  "description": "social-net demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ujnlsy/social-net.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "lsy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ujnlsy/social-net/issues"
+  },
+  "homepage": "https://github.com/ujnlsy/social-net#readme"
+}
